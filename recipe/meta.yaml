@@ -49,8 +49,6 @@ test:
   requires:
     - pip
     - python {{ python_min }}
-    - pytest >=8.4.1
-    - pytest-xdist >=3.7
 
 about:
   home: https://github.com/ecmwf/anemoi-datasets/
